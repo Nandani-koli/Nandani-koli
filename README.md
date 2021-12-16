@@ -1,7 +1,3 @@
-<p align ="center">
-<img src="https://user-images.githubusercontent.com/70843941/146366898-52e3c79b-16ec-47fb-b9ab-862eea2c0b80.gif" width = "50%" height ="20%">
-</p>
-
 # Hello:wave: World...
 
 - :sunglasses: I'm a `Self taught Programmer`
