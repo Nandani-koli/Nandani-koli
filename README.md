@@ -50,3 +50,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandani-koli&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandani-koli&layout=compact)](https://github.com/Nandani-koli/github-readme-stats)
+
+![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Nandani-koli&)
