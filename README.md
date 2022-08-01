@@ -14,13 +14,8 @@
 - ⚡ Fun fact :-  I'm `Funny`:wink: and `programmer`:woman_technologist: Both.
 
 - 📫 How to reach me: ...
-    <p align="left">
-
     <a href = "https://www.linkedin.com/in/nandani-koli-43197420b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href = "https://twitter.com/silent_nobita"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-    <a href = "instagram.com/_nandini_koli/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-    </p>
+    
 
 ## 🚀 Languages and Tools:
 
@@ -49,6 +44,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandani-koli&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandani-koli&layout=compact)](https://github.com/Nandani-koli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandani-koli&layout=compact)](https://github.com/Nandani-koli/github-readme-stats) ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Nandani-koli&)
 
-![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Nandani-koli&)
+<img src = "https://activity-graph.herokuapp.com/graph?username=Nandani-koli&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
