@@ -47,3 +47,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandani-koli&layout=compact)](https://github.com/Nandani-koli/github-readme-stats) ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Nandani-koli&)
 
 <img src = "https://activity-graph.herokuapp.com/graph?username=Nandani-koli&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+
+<a href="https://app.daily.dev/nandanikoli"><img src="https://api.daily.dev/devcards/b7177b0409bc498ab02d1aa9aff7a128.png?r=4yj" width="400" alt="Nandani Koli's Dev Card"/></a>
