@@ -25,6 +25,7 @@
 <!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+    <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />
     <img src="https://img.icons8.com/?size=100&id=Vra58PN2KmI5&format=png&color=000000"/> 
      <img src="https://img.icons8.com/?size=100&id=r2OarXWQc7B6&format=png&color=000000"/> 
      <img src="https://img.icons8.com/?size=100&id=74402&format=png&color=000000/> 
